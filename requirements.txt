@@ -1,0 +1,7 @@
+langchain
+streamlit
+gradio
+faiss-cpu
+sentence-transformers
+chromadb
+ollama
