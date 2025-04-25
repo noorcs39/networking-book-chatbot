@@ -1,4 +1,4 @@
-# Interactive Networking Tutor: A Book-Aware Local Chatbot Using RAG & Ollama#
+# Interactive Networking Tutor: A Book-Aware Local Chatbot Using RAG & Ollama
 
 ### Description:
 This research prototype presents a multi-turn interactive chatbot designed by Noor Uddin. It enables question answering over the contents of the book *Computer Networking: A Top-Down Approach* using Retrieval-Augmented Generation (RAG), local LLMs with Ollama, and Chroma vector stores.
@@ -33,6 +33,10 @@ An offline, multi-turn conversational AI designed to answer questions from *Comp
 - Fully runs offline — no OpenAI or external APIs
 
 ### Example Questions & Answers
+
+### 💬 Demo: Chatbot in Action
+
+![Chatbot Response](Result.png)
 
 ### Q: What is TCP?  
 A: TCP (Transmission Control Protocol) is a network protocol that provides reliable, stream-oriented communication between two devices over an internetwork. It ensures the data being sent from one device reaches its intended destination in the correct sequence and without errors, making it crucial for applications requiring error-free, ordered delivery of data such as web browsing, email, and file transfers. TCP operates at the transport layer (layer 4) of the OSI model.
